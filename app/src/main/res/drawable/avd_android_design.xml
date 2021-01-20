@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/android_design">
+    <target
+        android:name="p"
+        android:animation="@animator/p" />
+    <target
+        android:name="e"
+        android:animation="@animator/e" />
+    <target
+        android:name="t"
+        android:animation="@animator/t" />
+    <target
+        android:name="e2"
+        android:animation="@animator/e2" />
+    <target
+        android:name="m"
+        android:animation="@animator/m" />
+    <target
+        android:name="p2"
+        android:animation="@animator/p2" />
+    <target
+        android:name="ire"
+        android:animation="@animator/ire" />
+
+
+</animated-vector>

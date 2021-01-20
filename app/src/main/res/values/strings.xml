@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">Pet</string>
+
+
+    <string name="top_icon">TOP ICON</string>
+
+    <string name="email">Email</string>
+
+    <string name="password">Password</string>
+
+    <string name="login">LOGIN</string>
+
+    <string name="forgot_password">FORGOT PASSWORD?</string>
+
+    <string name="or">OR</string>
+
+    <string name="google_icon">google icon</string>
+
+    <string name="facebook_icon">facebook icon</string>
+
+    <string name="new_user_register_now">New User? Register Now</string>
+    <string name="confirmpassword">ConfirmPassword</string>
+    <string name="username">UserName</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_have_account">Already Have Account?</string>
+    <string name="add_pet">Add Pet</string>
+    <string name="petname">PetName</string>
+    <string name="petweight">PetWeight</string>
+    <string name="petcolor">PetColor</string>
+    <string name="pettype_cat_dog_etc">PetType \'cat/dog/etc\'</string>
+    <string name="petdetails_husky_german">PetType \'Husky\'</string>
+    <string name="PetNameError">PetName Required</string>
+    <string name="PetNameErrorr">PetName can\'t contain number</string>
+    <string name="PetAgeError">Age Required</string>
+    <string name="PetAgeerror">Age cant be less than or equal 0</string>
+    <string name="weightError">Weight Required</string>
+    <string name="petweighterror">Weight cant be less than or equal 0</string>
+    <string name="petcolorerror">Color Required</string>
+    <string name="colorerror">Invalid Color</string>
+    <string name="Selectpeterror">Select a Pet please</string>
+    <string name="petdetailserror">Please select pet type</string>
+    <string name="Error">Something went wrong please check all fields</string>
+    <string name="petphoto">PetPhoto</string>
+    <string name="edit_pet">Edit Pet</string>
+    <string name="Currencyerror">Currency Required</string>
+    <string name="Currenerror">Curreny Shouldn`t be 0$</string>
+    <string name="imagerror">\"Please Upload Image \"</string>
+    <string name="SongKey" translatable="false">Song</string>
+    <string name="ThemeKey" translatable="false">Theme</string>
+    <string-array name="Pets">
+        <item>Select Pet</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Hamster</item>
+        <item>Bird</item>
+        <item>Turtle</item>
+    </string-array>
+    <string-array name="Dog">
+        <item>Select Dog Type</item>
+        <item>Labrador Retriever</item>
+        <item>German Shepherd</item>
+        <item>Golden Retriever</item>
+        <item>Beagle</item>
+        <item>Bulldog</item>
+        <item>Yorkshire Terrier</item>
+        <item>Bulldog</item>
+        <item>Poodle</item>
+        <item> Dachshunds</item>
+    </string-array>
+    <string-array name="Cat">
+        <item>Select Cat Type</item>
+        <item>Abyssinian</item>
+        <item>American</item>
+        <item>Birman</item>
+        <item>Maine Coon</item>
+        <item>Oriental</item>
+        <item>Persian</item>
+        <item>Ragdoll</item>
+        <item>Siamese</item>
+    </string-array>
+    <string-array name="Bird">
+        <item>Select Bird Type</item>
+        <item>House sparrow</item>
+        <item>Starling</item>
+        <item>Blackbird</item>
+        <item>Bluetit</item>
+        <item>Woodpigeon</item>
+        <item>Goldfinch</item>
+        <item>Robin</item>
+        <item>Chaffinch</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

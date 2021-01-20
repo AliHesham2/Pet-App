@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:defaultValue="@bool/Song_show"
+        android:key="@string/SongKey"
+        android:summaryOff="Off"
+        android:summaryOn="On"
+        android:title="Audio" />
+</PreferenceScreen>
