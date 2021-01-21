@@ -1,3 +1,3 @@
 # Pet-App
 # StartPage & Login & SignUp
-<a href="https://giphy.com/gifs/AmvOZNKVHgWD69F4IZ"></a>
+<img src="https://media.giphy.com/media/AmvOZNKVHgWD69F4IZ/giphy.gif"></a>
